@@ -175,7 +175,7 @@ me.say_hi()
 
 | Degree | Institution | Period | Score |
 |--------|------------|--------|-------|
-| 🎓 B.E. Computer Science & Engineering | Alliance College of Engineering and Design, Bengaluru | Dec 2022 – Apr 2026 | CGPA: 8.1 |
+| 🎓 B.E. Computer Science & Engineering | Alliance College of Engineering and Design, Bengaluru | Dec 2022 – Apr 2026 | CGPA: 8.2 |
 | 📚 PUC — PCMB (Science) | Sri Basaveshwara PU College, Davangere | Aug 2020 – Apr 2022 | 85% |
 
 ---
